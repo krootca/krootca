@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150px" src="https://avatars.githubusercontent.com/u/63897401?v=4">
+  <img width="150px" src="https://github.com/krootca/krootca/blob/main/lain_nexo3.gif">
 </p>
 
 <h1 align="center">K R O O T C A</h1>
