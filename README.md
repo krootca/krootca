@@ -66,7 +66,7 @@ _Pagina Web:_
 <div align="center">
               <a href="https://krootca.github.io/">
 			<div>
-				<img src="https://github.com/krootca/Ofuscated-Python3/blob/main/logo.gif" width="300" alt="OSS Capital">
+				<img src="https://github.com/krootca/krootca/blob/main/logo.gif" width="300" alt="OSS Capital">
 			</div>
 			<div>
 				<sup><b>Gracias por el apoyo a todos los que conmigo están trabajando<br>exclusivamente para contribuir en el codigo abierto.</b></sup>
