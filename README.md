@@ -43,7 +43,7 @@
 
 <a href="#">
 	<!-- wi*quL3fcV -->
-	<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krootca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" / align="right">
+	<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krootca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" / align="right">
 	
 
 </a>
