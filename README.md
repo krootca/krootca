@@ -21,18 +21,18 @@
 <img src="https://img.shields.io/badge/Python-100%25-blueviolet" align="left"
      alt="Python">
 <img src="https://img.shields.io/badge/Java-60%25-blueviolet" align="left"
-     alt="Python">
+     alt="Java">
 <img src="https://img.shields.io/badge/Perl-60%25-blueviolet" align="left"
-     alt="Python">
+     alt="Perl">
 <br>
 <img src="https://img.shields.io/badge/C++-100%25-blueviolet" align="left"
-     alt="Python">
+     alt="C++">
 <img src="https://img.shields.io/badge/Node.js-60%25-blueviolet" align="left"
-     alt="Python">
+     alt="Node.js">
 <img src="https://img.shields.io/badge/PHP-100%25-blueviolet" align="left"
      alt="PHP">
 <br>
-<img src="https://img.shields.io/badge/Riny-40%25-blueviolet" align="left"
+<img src="https://img.shields.io/badge/Ruby-40%25-blueviolet" align="left"
      alt="Ruby">
 
 <h3 align="right">	
