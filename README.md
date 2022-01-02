@@ -43,6 +43,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krootca&repo=App-Flask)](https://github.com/krootca/App-Flask)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krootca)](https://github.com/krootca/App-Flask)
 ---------------------------
 _Pagina Web:_
 - [krootca.github.io](http://krootca.github.io)
