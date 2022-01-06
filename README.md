@@ -12,8 +12,6 @@
   </a>
 </p>
 
-### Lider de la Organización GitHub [King-Artorias](https://github.com/King-Artorias) 🐺
-
 <img src="https://avatars.githubusercontent.com/u/89755140?s=200&v=4" align="right"
      alt="King-Artorias Logo" width="110" height="110">
 ### Lenguajes:
