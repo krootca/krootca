@@ -48,17 +48,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krootca&show_icons=true&theme=radical)
 
----------------------------
-_Pagina Web:_
-- [krootca.github.io](http://krootca.github.io)
----------------------------
+ <p align="center"><b>Achievements</b></p>
+<p align="center"> <a href="https://github.com/snowwhite-boss"><img src="https://github-profile-trophy.vercel.app/?username=krootca&margin-w=5&theme=radical" alt="krootca" /></a> </p>
 
-### _Redes Sociales:_
-
-| Codigo | Link |
-| ------ | ------ |
-| Instagram | [https://www.instagram.com/krootca/](https://www.instagram.com/krootca/) |
-| Twitter | [https://twitter.com/MKrootca](https://twitter.com/MKrootca) |
+<p align="center"><b>Profile Details</b></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krootca&theme=github_dark" alt="krootca" align = "center"/></p>
 
 
 <div align="center">
